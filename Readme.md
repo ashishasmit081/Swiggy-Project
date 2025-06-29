@@ -11,7 +11,6 @@ Developed a frontend clone of Swiggy using React as a Single Page Application (S
 - Managed global cart state using Redux for real-time UI updates.
 - Added in-restaurant dish search using live filtering on local array.
 - Included Veg/Non-Veg filters via toggle control.  
-- **Note:** Runs locally due to CORS/live API limitations.
 
 ---
 
@@ -80,5 +79,9 @@ Developed a frontend clone of Swiggy using React as a Single Page Application (S
 ![NAVIGATING BACK TO WEBSITE AND APPLYING NON-VEG FILTER, CART STILL HOLDS THE VALUE (GLOBAL STATE USED)](./i10.png)
 
 ---
+> 🎥 **Note:** A demo video was recorded to showcase the project functionality. However, due to OBS recording quality issues, the final output did not meet expectations.
+
+[![Watch the video](https://img.youtube.com/vi/GvoJ0KhfC5k/maxresdefault.jpg)](https://www.youtube.com/watch?v=GvoJ0KhfC5k)
+
 
 
