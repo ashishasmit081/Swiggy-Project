@@ -1,72 +1,86 @@
-# 📘 Project Showcase
+# 🍽️ Swiggy Clone using Live API
 
-A brief overview of the website and its features with responsive design and dynamic functionality.
+> React, Redux, SPA
+
+Developed a frontend clone of Swiggy using React as a Single Page Application (SPA). Integrated Swiggy’s public API to deliver a dynamic, real-time food ordering interface.
+
+- Used real-time API to fetch restaurant/menu data — no hardcoded content.
+- Implemented async data fetching with **async/await** for smooth rendering.
+- Bypassed CORS using a custom proxy server to modify request headers.
+- Built seamless SPA routing with **react-router-dom**.
+- Managed global cart state using Redux for real-time UI updates.
+- Added in-restaurant dish search using live filtering on local array.
+- Included Veg/Non-Veg filters via toggle control.  
+- **Note:** Runs locally due to CORS/live API limitations.
 
 ---
 
 ## **HOME PAGE**
 
-![HOME PAGE](images/image1.png)
+![HOME PAGE](./i1.png)
 
 ---
 
 ## **HOMEPAGE**
 
-![HOMEPAGE](images/image2.png)
+![HOMEPAGE](./i2.png)
 
 ---
 
 ## **HOMEPAGE**
 
-![HOMEPAGE](images/image3.png)
+![HOMEPAGE](./i3.png)
 
 ---
 
 ## **HOMEPAGE (TABLET VIEW)**
 
-![HOMEPAGE (TABLET VIEW)](images/image4.png)
+![HOMEPAGE (TABLET VIEW)](./i4.png)
 
 ---
 
 ## **HOMEPAGE (Mobile VIEW)**
 
-![HOMEPAGE (Mobile VIEW)](images/image5.png)
+![HOMEPAGE (Mobile VIEW)](./i5.png)
 
 ---
 
 ## **HOMEPAGE (Mobile VIEW)**
 
-![HOMEPAGE (Mobile VIEW)](images/image6.png)
+![HOMEPAGE (Mobile VIEW)](./i6.png)
 
 ---
 
 ## **SHIMMER EFFECT IN (FOOD DELIVERY SECTION)**
 
-![SHIMMER EFFECT IN (FOOD DELIVERY SECTION)](images/image7.png)
+![SHIMMER EFFECT IN (FOOD DELIVERY SECTION)](./i7.png)
 
 ---
 
 ## **DATA FETCHED FROM SWIGGY LIVE API IN FOOD DELIVERY SECTION**
 
-![DATA FETCHED FROM SWIGGY LIVE API IN FOOD DELIVERY SECTION](images/image8.png)
+![DATA FETCHED FROM SWIGGY LIVE API IN FOOD DELIVERY SECTION](./i8.png)
 
 ---
 
 ## **OPENED PIZZA HUT FROM FOOD DELIVERY SECTION AND ADDED ITEM TO CART**
 
-![OPENED PIZZA HUT FROM FOOD DELIVERY SECTION AND ADDED ITEM TO CART](images/image9.png)
+![OPENED PIZZA HUT FROM FOOD DELIVERY SECTION AND ADDED ITEM TO CART](./i9.png)
 
 ---
 
 ## **CART SECTION DISPLAYING TOTAL COST**
 
-![CART SECTION DISPLAYING TOTAL COST](images/image10.png)
+![CART SECTION DISPLAYING TOTAL COST](./i10.png)
 
 ---
 
 ## **NAVIGATING BACK TO WEBSITE AND APPLYING NON-VEG FILTER, CART STILL HOLDS THE VALUE (GLOBAL STATE USED)**
 
-![NAVIGATING BACK TO WEBSITE AND APPLYING NON-VEG FILTER, CART STILL HOLDS THE VALUE (GLOBAL STATE USED)](images/image11.png)
+![NAVIGATING BACK TO WEBSITE AND APPLYING NON-VEG FILTER, CART STILL HOLDS THE VALUE (GLOBAL STATE USED)](./i11.png)
 
 ---
 
+## **EXTRA: PROJECT STRUCTURE OVERVIEW / DEPLOY NOTE**
+
+![EXTRA](./i12.png)
