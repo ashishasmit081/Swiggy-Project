@@ -13,6 +13,8 @@ Developed a frontend clone of Swiggy using React as a Single Page Application (S
 - Included Veg/Non-Veg filters via toggle control.  
 
 ---
+[https://swiggy-clone-live-api-project.netlify.app/]([https://example.com](https://swiggy-clone-live-api-project.netlify.app/))
+
 
 ## **HOME PAGE**
 
