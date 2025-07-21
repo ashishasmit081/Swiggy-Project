@@ -14,7 +14,7 @@ Developed a frontend clone of Swiggy using React as a Single Page Application (S
 
 ---
 ## Live Demo
-
+## NOTE: THE 'FOOD DELIVERY' SECTION HAS BEEN CODED BY USING LIVE API ONLY. KINDLY CHECK THE 'FOOD DELIVERY' SECTION AND NOT 'DINEOUT' SECTION
 Check out the live frontend here: [swiggy-clone-live-api-project](https://swiggy-clone-live-api-project.netlify.app/)
 
 
